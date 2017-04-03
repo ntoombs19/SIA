@@ -1,0 +1,110 @@
+.pathway {
+	color: #ffffff;
+	font-size: 11pt;
+	font-family: Tahoma;
+	font-weight:bold;
+	padding-right:5px;
+	}
+
+.pageContent {
+	color: #fff;
+	font-size: 8pt;
+	font-family: Tahoma;
+	
+}
+
+
+.company {
+	font-size: 9pt;
+	font-family: Tahoma;
+	color:#513618;
+	font-weight:bold;
+	
+}
+.slogan {
+	font-size: 8pt;
+	font-family: Tahoma;
+	color: #65553C;
+}
+.copyright {
+	color: #BDC5C8;
+	font-size: 8pt;
+	font-family: Tahoma;
+	text-align: center;
+}
+/*main menu*/
+.tmenu {
+	font-size: 8pt;
+	font-family: Tahoma;
+	color: #191428;
+	text-decoration: underline;
+	text-align: center;
+	padding-top:5px;
+	padding-bottom:5px;
+	
+	
+	
+}
+
+
+.tmenua {
+	font-size: 8pt;
+	font-family: Tahoma;
+	color: #191428;
+	text-align: center;
+	text-decoration: none;
+	padding-top:5px;
+	padding-bottom:5px;
+		
+}
+
+.t1 {
+padding-left:5px;
+text-align: center;
+
+}
+
+/*submenu*/
+.smenua {
+	font-size: 8pt;
+	color: #ffffff;
+	font-family: Tahoma;
+	text-align: left;
+	text-decoration: none;
+	
+	
+}
+.smenu {
+	font-size: 8pt;
+	color: #ffffff;
+	font-family: Tahoma;
+	text-align: left;
+	text-decoration: underline;
+	
+	
+}
+
+.s1 {
+padding-right:10px;
+
+}
+
+/*bottom*/
+.bmenu {
+	font-size: 8pt;
+	font-family: Tahoma;
+	color: #171228;
+	text-decoration:underline;
+	text-align: center;
+}
+.bmenua {
+	font-size: 8pt;
+	font-family: Tahoma;
+	color: #171228;
+	text-decoration:none;
+	text-align: center;
+	
+}
+.b1 {
+padding:5px;
+text-align: center;}
