@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <menu>
     <item title="Home" link="page1.html"/>
-    <item title="Investment Philosophy" link="page3.html"/>
-    <item title="Fees" link="page6.html"/>
-    <item title="Account Access" link="page7.html"/>
-    <item title="Code of Ethics" link="page4.html"/>
+    <item title="Investment Philosophy" link="investment-philosophy.html"/>
+    <item title="Code of Ethics" link="code-of-ethics.html"/>
+    <item title="Fees" link="fees.html"/>
+    <item title="Account Access" link="account-access.html"/>
 </menu>
