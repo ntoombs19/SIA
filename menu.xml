@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <menu>
     <item title="Home" link="page1.html"/>
-    <item title="About Us" link="page2.html"/>
     <item title="Philosophy" link="page3.html"/>
     <item title="Fees" link="page6.html"/>
     <item title="Account Access" link="page7.html"/>
